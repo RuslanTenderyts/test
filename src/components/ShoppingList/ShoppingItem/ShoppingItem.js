@@ -1,4 +1,4 @@
-import { CardWrapper, FoodImage, FoodName, FoodContainer, Input, BtnDelete, Button} from "./ShoppingItem.stayled";
+import { CardWrapper, FoodImage, FoodName, FoodContainer, Input, BtnDelete} from "./ShoppingItem.stayled";
 
 export const ShoppingCard = ({ food, onChange, removeFood }) => {
 
